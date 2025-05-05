@@ -1,2 +1,3 @@
 initial commit
-change after bugfix and while other changes are stashed 
+new version
+Stash demo
